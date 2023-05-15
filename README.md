@@ -1,1 +1,0 @@
-# loriz-a19u-servidor-web-windows
