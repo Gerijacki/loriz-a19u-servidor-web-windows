@@ -124,3 +124,4 @@ A la ruta c:\inetpub\wwwroot li afegimel fitxer info.php:
 
 ![Texto alternativo](./media/23.png)
 
+Amb això ja tindriem tot el nostre servidor web acabat i configurat.
